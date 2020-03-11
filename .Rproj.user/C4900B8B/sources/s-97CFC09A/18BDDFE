@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583933443225.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "213280213",
+    "id" : "18BDDFE",
+    "lastKnownWriteTime" : 1583933457,
+    "last_content_update" : 1583933457800,
+    "path" : "~/GitHub/108-2-78-inclass-practice/untitled.R",
+    "project_path" : "untitled.R",
+    "properties" : {
+        "cursorPosition" : "0,3",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
