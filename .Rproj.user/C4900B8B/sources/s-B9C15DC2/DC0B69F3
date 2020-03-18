@@ -1,26 +1,26 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1584515937100.000,
+    "created" : 1584521146768.000,
     "dirty" : false,
     "encoding" : "",
     "folds" : "",
     "hash" : "0",
-    "id" : "9C9808B8",
-    "lastKnownWriteTime" : 7959953343490711885,
-    "last_content_update" : 1584515937100,
+    "id" : "DC0B69F3",
+    "lastKnownWriteTime" : 2314885530450145330,
+    "last_content_update" : 1584521146768,
     "path" : null,
     "project_path" : null,
     "properties" : {
-        "cursorPosition" : "1,0",
-        "scrollLine" : "0",
-        "tempName" : "Untitled1"
+        "id" : "63a7f611e6f5468ba08ee6eeea0cdf5f",
+        "name" : "<html>",
+        "title" : "."
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 1,
+    "relative_order" : 3,
     "source_on_save" : false,
     "source_window" : "",
-    "type" : "r_markdown"
+    "type" : "object_explorer"
 }

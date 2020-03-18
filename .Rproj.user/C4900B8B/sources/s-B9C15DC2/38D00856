@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584521260491.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "592349663",
+    "id" : "38D00856",
+    "lastKnownWriteTime" : 1584521944,
+    "last_content_update" : 1584521944512,
+    "path" : "~/GitHub/108-2-78-inclass-practice/0318 chapter3.Rmd",
+    "project_path" : "0318 chapter3.Rmd",
+    "properties" : {
+        "cursorPosition" : "115,0",
+        "docOutlineVisible" : "1",
+        "last_setup_crc32" : "B9C15DC2bb338d19",
+        "scrollLine" : "84",
+        "source_window_id" : "",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

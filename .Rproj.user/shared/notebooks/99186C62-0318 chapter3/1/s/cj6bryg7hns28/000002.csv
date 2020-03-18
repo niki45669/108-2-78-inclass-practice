@@ -1,0 +1,5 @@
+"0","library(httr)"
+"0","library(dplyr)"
+"0","GET(""https://github.com/niki45669/108-2-78-inclass-practice"") %>%"
+"0","  content() %>%"
+"0","  View()"
