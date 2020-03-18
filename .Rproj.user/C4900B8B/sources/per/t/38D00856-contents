@@ -104,6 +104,19 @@ GET("https://github.com/niki45669/108-2-78-inclass-practice") %>%
   View()
 ```
 
+
+
+### Logi
+
+```{r}
+logi1 <- c(T,TRUE,F,FALSE,FALSE)
+```
+
+```{r}
+# 加總向量內的所有元素值。
+sum(logi1)
+```
+
 ## Including Plots
 
 You can also embed plots, for example:
