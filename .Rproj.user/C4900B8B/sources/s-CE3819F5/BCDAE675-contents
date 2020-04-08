@@ -120,12 +120,20 @@ with_tz(
 ```{r}
 studentTime <-c(
   ymd_hms("2020-03-04T08:18:22Z"),
-  ymd_hms(c("2020-03-11 16:08:19","2020-03-11 16:08:19",tz="Asia/Taipei")
+  ymd_hms("2020-03-11 16:08:19","2020-03-11 16:08:19",tz="Asia/Taipei")
 )
+studentTime
 ```
 
 
+```{r}
+Time1 <- ymd_hms("2020-03-04T08:18:22Z")
+Time2 <- ymd_hms("2020-03-11 16:08:19",tz="Asia/Taipei")
+Time3 <- ymd_hms("2020-03-11 16:08:19",tz="Asia/Taipei")
 
+studentTime <- C("Time1","Time2","Time3")
+studentTime
+```
 
 
 
