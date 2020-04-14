@@ -1,24 +1,22 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1586677724776.000,
+    "created" : 1586678114095.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "337719892",
-    "id" : "B1AFC9BC",
-    "lastKnownWriteTime" : 1586679769,
-    "last_content_update" : 1586679769376,
-    "path" : "C:/Users/niki4/Downloads/homework1.Rmd",
+    "hash" : "1149721181",
+    "id" : "EFBAC2DB",
+    "lastKnownWriteTime" : 1586678107,
+    "last_content_update" : 1586678107,
+    "path" : "C:/Users/niki4/Downloads/library與執行順序.Rmd",
     "project_path" : null,
     "properties" : {
-        "cursorPosition" : "19,0",
-        "scrollLine" : "1"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 2,
+    "relative_order" : 4,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"

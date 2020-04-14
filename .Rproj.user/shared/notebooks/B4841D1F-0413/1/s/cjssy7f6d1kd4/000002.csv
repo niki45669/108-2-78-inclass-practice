@@ -1,0 +1,14 @@
+"0","library(lubridate)"
+"2","package ¡¥lubridate¡¦ was built under R version 3.6.3"
+"2","
+Attaching package: ¡¥lubridate¡¦
+
+"
+"2","The following object is masked from ¡¥package:base¡¦:
+
+    date
+
+"
+"0","firstDate <- ymd(""2019-03-03"")"
+"0","secondDate <- ymd(""æ°‘åœ‹108å¹´12æœˆ5æ—¥"")"
+"2","All formats failed to parse. No formats found."

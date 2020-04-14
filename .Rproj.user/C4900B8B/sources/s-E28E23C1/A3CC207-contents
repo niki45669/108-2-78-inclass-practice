@@ -1,0 +1,105 @@
+---
+title: '0413'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(jsonlite)
+fromJSON("https://data.tainan.gov.tw/dataset/4cd9345a-04bf-4328-a97d-314ff78b4763/resource/afc025fc-1ef4-447c-b785-a680391d0ca1/download/tnsport2.json", simplifyDataFrame = F) -> tainanSportsMap
+```
+
+```{r}
+
+names(listExample)
+```
+
+
+```{r}
+listExample[["student"]]
+listExample$student
+
+listExample[["學期"]] 
+listExample$`學期`
+```
+
+```{r}
+vectorExample
+vectorExample[c(1,3)]
+vectorExample[c(3,2,1)] 
+
+
+
+```{r}
+num1 <- c(1, 5, -3)
+num2 <- c(33.5, 12.28, 57)
+num3 <- c(-2L, 4L, 8L,5L)
+num4 <- c(0.1, 0.22)
+num5 <- 3.3
+```
+
+```{r}
+
+str(listExample, max.level=1)
+
+listExample[c("學期")]
+listExample[c("student","學期")]
+
+```
+
+```{r}
+vectorExample
+vectorExample[c(T,T,F)] # 要，要，不要
+```
+
+```{r}
+str(listExample[c(F,T)]) # 不要，要
+str(listExample[c(T,T)]) # 要，要
+```
+
+```{r}
+num3-num4
+num3-c(num4,num4)
+num3*num4
+num3*c(num4,num4)
+num5*num2
+c(num5,num5,num5)*num2
+num5/num2
+c(num5,num5,num5)/num2
+```
+
+```{r}
+num2 %% num5
+num3 ** num4
+```
+
+
+
+```{r}
+library(lubridate)
+firstDate <- ymd("2019-03-03")
+secondDate <- ymd("民國108年12月5日")
+```
+
+
+
+```{r}
+factor1 <- factor(
+  c('經濟學系','社會學系','社會學系','經濟學系','經濟學系')
+) 
+factor2 <- factor(
+  c('社會學系','經濟學系','經濟學系','經濟學系','社會學系')
+) 
+
+# factor 的type是integer(整數)
+typeof(factor1) 
+typeof(factor2)
+
+# 它是不是可以像整數進行相減？
+factor1-factor2
+```
+

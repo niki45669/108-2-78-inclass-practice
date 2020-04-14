@@ -1,0 +1,21 @@
+---
+title: "library與執行順序"
+date: "`r format(Sys.time(), '%m/%d/%Y')`"
+author: "李靜怡"
+output: html_document
+---
+
+```{r}
+library(lubridate)
+```
+
+
+```{r}
+ymd("2000/02/18") -> birthday
+```
+
+
+```{r}
+birthday
+```
+

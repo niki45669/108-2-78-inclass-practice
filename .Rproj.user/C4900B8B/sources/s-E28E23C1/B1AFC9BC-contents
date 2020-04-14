@@ -2,8 +2,8 @@
 title: "homework 1"
 output: html_document
 params:
-  studentName: "你的名字"
-  studentID: "你的學號"
+  studentName: "陳綺詠"
+  studentID: "410673072"
 ---
 
 # 注意事項
