@@ -2,16 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1586677965768.000,
-    "dirty" : false,
+    "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3190988754",
+    "hash" : "0",
     "id" : "BAEDD1CB",
     "lastKnownWriteTime" : 1586677954,
-    "last_content_update" : 1586677954,
+    "last_content_update" : 1586872531350,
     "path" : "C:/Users/niki4/Downloads/04-03.Rmd",
     "project_path" : null,
     "properties" : {
+        "cursorPosition" : "151,17",
+        "scrollLine" : "129"
     },
     "read_only" : false,
     "read_only_alternatives" : [

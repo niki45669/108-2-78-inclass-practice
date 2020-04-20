@@ -2,18 +2,19 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1586677724776.000,
-    "dirty" : false,
+    "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "337719892",
+    "hash" : "0",
     "id" : "B1AFC9BC",
-    "lastKnownWriteTime" : 1586679769,
-    "last_content_update" : 1586679769376,
-    "path" : "C:/Users/niki4/Downloads/homework1.Rmd",
+    "lastKnownWriteTime" : 1586878909,
+    "last_content_update" : 1586918121307,
+    "path" : "C:/Users/niki4/Downloads/homework1--410673072.Rmd",
     "project_path" : null,
     "properties" : {
-        "cursorPosition" : "19,0",
-        "scrollLine" : "1"
+        "cursorPosition" : "227,0",
+        "last_setup_crc32" : "E28E23C16e85358a",
+        "scrollLine" : "201"
     },
     "read_only" : false,
     "read_only_alternatives" : [
