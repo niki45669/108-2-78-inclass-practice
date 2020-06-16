@@ -106,4 +106,10 @@ factor1-factor2
 ```{r}
 source("https://www.dropbox.com/s/mk7bxvu6a3lxf79/studentEnvironmentReport.R?dl=1",print.eval = T)
 ```
+```{r}
+library(lubridate)
+studentTime <- ymd_hms("2019-04-12 12:55:30",tz="Asia/Taipei")
+
+studentTime
+```
 

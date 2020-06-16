@@ -1,0 +1,1 @@
+{"frames":[{"character_number":0,"end_character_number":0,"end_line_number":0,"file":"","func":"C(\"A803000000A\")","line_number":0},{"character_number":0,"end_character_number":0,"end_line_number":0,"file":"","func":"stop(\"object not interpretable as a factor\")","line_number":0}],"message":"Error in C(\"A803000000A\") : object not interpretable as a factor\n"}

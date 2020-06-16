@@ -1,0 +1,7 @@
+"0","library(stringr)"
+"0","target_regex <- ""高級中學"""
+"0","pattern <- glue::glue(""{target_regex}$"")"
+"0","regex_hsTitle <- ""(高(級)?中?(學)?"""
+"0","str_replace(regex_hsTitle,as.character(""""))"
+"2","錯誤: Empty `pattern` not supported
+"

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590562909772.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "495B9415",
+    "lastKnownWriteTime" : 1590569198,
+    "last_content_update" : 1590569825928,
+    "path" : "C:/Users/niki4/Downloads/exam2_410673072.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "143,25",
+        "last_setup_crc32" : "EA6E975Fc6557464",
+        "scrollLine" : "115"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
